@@ -1,9 +1,5 @@
 # HangiBitki
 
-## Plant Recognition Android Application
-
-## Description
-
 An Android application that identifies plant species from images and provides care recommendations using a custom-trained AI model. The model was trained with a custom dataset using TensorFlow and Keras, then integrated into the Android application.
 
 ## Features
