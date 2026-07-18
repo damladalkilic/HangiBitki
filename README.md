@@ -31,7 +31,7 @@ An Android application that identifies plant species from images and provides ca
 ## Screenshots
 
 <p>
-  <img src="./screenshots/home-screen.png" width="250"/>
-  <img src="./screenshots/detection-result.png" width="250"/>
+  <img src="./screenshots/home_screen.png" width="250"/>
+  <img src="./screenshots/detection_result.png" width="250"/>
   <img src="./screenshots/care-recommendations.png" width="250"/>
 </p>
